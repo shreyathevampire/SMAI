@@ -1,0 +1,5 @@
+1. https://www.aicrowd.com/challenges/htspc-hate-speech-classification
+
+2. https://www.aicrowd.com/challenges/tjedc-tom-and-jerry-emotion-detection-challenge/submissions
+
+3. https://www.aicrowd.com/challenges/covid-drug-discovery-for-covid19
