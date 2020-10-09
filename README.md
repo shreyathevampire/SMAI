@@ -1,5 +1,5 @@
 # Statiscal Methods in Aritifical Intelligence
-Machine Learning Assignments During the Course
+Machine Learning And Deep Learning Algorithms implemented from scratch
 ## All algorithms mentioned below are implemented from scratch.
 
 ## Assignment 1 contents:
