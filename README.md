@@ -30,4 +30,11 @@ Machine Learning Assignments During the Course
 ### 3. Linear Regression Model (Scratch)
         Implemented Linear Regression Model from scratch to predict apparent temperature in the given dataset of historical weather..
         Reported metrics such as MSE and MAE and reported the behavior of the model on different regression coefficients. 
+        Used different plots to show the change in MSE and MAE for different number of iterations in conditions like:
+                a. Different coefficient values for a fixed learning parameter.
+                b. Different learning parammter values for a fixed coefficient value.
+      
+### 4. KMeans Clustering (Scratch)
+        Implemented KMeans Clustering from scratch for clustering the given dataset of documents from 5 different fields
+        Used pretrained model and vectorizers (eg TF-IDF) for feature extraction from the documents
         
