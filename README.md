@@ -34,7 +34,28 @@ Machine Learning Assignments During the Course
                 a. Different coefficient values for a fixed learning parameter.
                 b. Different learning parammter values for a fixed coefficient value.
       
+ 
 ### 4. KMeans Clustering (Scratch)
         Implemented KMeans Clustering from scratch for clustering the given dataset of documents from 5 different fields
         Used pretrained model and vectorizers (eg TF-IDF) for feature extraction from the documents
         
+        
+## Assignment 3  contents:
+
+### 1.  PCA (Scratch)
+        Performed PCA on the image dataset. Downscaled the image to grayscale for better results and ease of computation.
+        Reconstructed the image with small number of components.
+        Showcased the variation of MSE of the dataset with the number of components using plots.
+        Used scatterplots to show the varaition of clusters in 1D, 2D, 3D planes with the required number of components obtained from PCA.
+        
+### 2. Logistic Regression Model (Scratch)
+       Implemented the logistic regression model.
+       Using numpy, extracted the eigen values and vectors and reported accuracy metrics.
+       
+### 3. Multilayer Perceptron
+       Implemented MLP, CNN and SVM to classify images into their respective category.
+       Plotted graphs for different scenarios and summarized them:
+                a. Number of hidden layers
+                b. Different activation functions
+                c. Different kernels (SVM) 
+
