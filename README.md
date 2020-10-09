@@ -18,4 +18,16 @@ Machine Learning Assignments During the Course
         
         
 
+## Assignment 2  contents:
+
+### 1.  Linear SVM (Scratch)
+        Implemented a Linear SVM Classifier from scratch for prediction of test images on CiFAR dataset.
+        Ipynb file contains a brief description of SVM and its parameter (eg. significance of C)
+        Compared the classifier with the scikit-learn's built-in KNN classifier and reported the support vectors.
+        
+### 2. Guassian Mixture Models Clustering
+       
+### 3. Linear Regression Model (Scratch)
+        Implemented Linear Regression Model from scratch to predict apparent temperature in the given dataset of historical weather..
+        Reported metrics such as MSE and MAE and reported the behavior of the model on different regression coefficients. 
         
